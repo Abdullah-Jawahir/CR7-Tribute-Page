@@ -1,2 +1,2 @@
-This is my First free code camp project.
+This is my first Free Code Camp project.
 A Tribute Page for CR7.
